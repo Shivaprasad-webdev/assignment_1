@@ -5,7 +5,7 @@ This is a ReactJS frontend application developed as part of the React Developer 
 ## 📸 Demo
 
 **Live Demo**: [https://assignment-1-ochre-rho.vercel.app/]
-**GitHub Repo**: [https://github.com/Shivaprasad-webdev/react-assignment_1]
+**GitHub Repo**: [https://github.com/Shivaprasad-webdev/assignment_1]
 
 ## 🚀 Features
 
