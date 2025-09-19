@@ -4,8 +4,8 @@ This is a ReactJS frontend application developed as part of the React Developer 
 
 ## 📸 Demo
 
-**Live Demo**: [https://react-assignment-1-five-snowy.vercel.app/]
-**GitHub Repo**: [https://github.com/Shivaprasad-webdev/react-assignment-1]
+**Live Demo**: [https://assignment-1-ochre-rho.vercel.app/]
+**GitHub Repo**: [https://github.com/Shivaprasad-webdev/react-assignment_1]
 
 ## 🚀 Features
 
