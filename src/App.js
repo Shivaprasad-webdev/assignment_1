@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import './App.css'; // Make sure your loader CSS is here or imported
+import './App.css'; 
 import Loader  from './components/Loader';
 import UserCard from './components/UserCard'
 
 const App = () => {
   const [users, setUsers] = useState([]);
-  const [loading, setLoading] = useState(true); // initially true
+  const [loading, setLoading] = useState(true);
   useEffect(() => {
     const fetchUsers = async () => {
       try {
