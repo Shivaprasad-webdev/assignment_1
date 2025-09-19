@@ -1,4 +1,4 @@
-import './index.css'; // use this instead of index.css for separation
+import './index.css'; 
 
 const UserCard = ({ user }) => {
   return (
